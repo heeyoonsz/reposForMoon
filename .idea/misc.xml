@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DS/AndroidProjects/tadaktadak_front-yuna/app/src/main/res/layout/activity_img.xml" value="0.12512613521695257" />
+        <entry key="..\:/Users/DS/AndroidProjects/tadaktadak_front-yuna/app/src/main/res/layout/fragment_navi_home.xml" value="0.25" />
+        <entry key="..\:/Users/DS/AndroidProjects/tadaktadak_front-yuna/app/src/main/res/menu/navi_menu.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/DS/AndroidProjects/tadaktadak_front-yuna/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/front_prototype_A-master/front_prototype_A-master/app/src/main/res/layout/fragment_navi_home.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/button_resource.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_home_camera_24.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_home_photo_24.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1171875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_navi_contract_collection.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_navi_contract_set.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_navi_home.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_navi_settings.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable-v24/searchview_background.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/btn_blue.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/btn_green.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/btn_stroke.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/google.xml" value="0.152" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/ic_baseline_check_box_24.xml" value="0.190625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/ic_google_background.xml" value="0.1171875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1171875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/kakao.xml" value="0.19375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/login.xml" value="0.536" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/drawable/splash.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_home.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/menu/navi_menu.xml" value="0.16875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/mipmap-anydpi-v26/ic_google.xml" value="0.1171875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/app/src/main/res/mipmap-anydpi-v26/ic_google_round.xml" value="0.1171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
